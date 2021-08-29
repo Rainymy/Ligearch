@@ -2,6 +2,10 @@
 
 In the project directory, you can run:
 
+### `npm run live`
+
+Starts up a live server and then lauches electron. Which is directed to the live server.  
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
