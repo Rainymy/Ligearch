@@ -1,0 +1,36 @@
+.fileDropZone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5em 0;
+  /* padding: 2em; */
+  position: relative;
+  /* height: 200px; */
+}
+.fileDropZone > div {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5em 0;
+  flex-direction: column;
+  position: relative;
+  /* height: 200px; */
+}
+
+.fileDropZone > div > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+  text-align: center;
+  width: 50%;
+  min-width: 320px;
+  height: 100%;
+  padding: 0.75em;
+  margin: 0.25em 0;
+  border-radius: 0.5rem;
+  text-align: center;
+  background-color: teal;
+}

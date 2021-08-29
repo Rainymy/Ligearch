@@ -1,0 +1,29 @@
+{
+    "mode": {
+        "label": "normal",
+        "options": [
+            "normal",
+            "weeb"
+        ]
+    },
+    "exportFileType": {
+        "label": "json",
+        "options": [
+            "json",
+            "txt"
+        ]
+    },
+    "supportedFileTypes": [
+        "txt",
+        "json"
+    ],
+    "ApiCalls": {
+        "label": "IMDB",
+        "options": [
+            "IMDB",
+            "Netflix",
+            "MyAnimeList",
+            "None"
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+.card {
+  margin: 0.5em;
+  padding: 1em;
+  
+  border-radius: 0.5rem;
+  background-color: lightskyblue;
+  
+  width: 175px;
+  height: 250px;
+  
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  text-align: center;
+}
+
+.card > h3 {
+  overflow: hidden;
+  font-size: 1.5em;
+  
+  text-overflow: ellipsis;
+  word-break: break-all;
+  white-space: normal;
+  
+  width: 100%;
+  max-width: 100%;
+  max-height: 160px;
+  
+  border-radius: 5px;
+  background-color: teal;
+  margin: auto;
+}
+
+.card > div > button, .card > button {
+  background-color: teal;
+  color: white;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+  margin-top: 0.5em;
+  padding: 0.75em 0.25em;
+  transition: all 0.25s ease-in;
+}
+
+.card > div > button:hover, .card > button:hover {
+  background-color: deepskyblue;
+  color: yellow;
+}
+
+.addToList {
+  --hello: 1em;
+  box-sizing: border-box;
+  margin: 0.5em 0 1em 0;
+  padding: var(--hello);
+  
+  position: relative;
+  background-color: rgba(120, 120, 120, 0.5);
+  
+  width: 100%;
+  border-radius: 5px;
+}
+
+.addToList > div {
+  display: flex;
+  width: 100%;
+}
+
+.addToList > div.search-overlay {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  margin: 0.5em 0 -2.5em 0;
+  padding: 0.5em var(--hello);
+  
+  width: calc(100% - var(--hello) * 2);
+  max-height: 400px;
+  
+  top: calc(50% + var(--hello));
+  left: 0;
+  
+  z-index: 2;
+  background-color: grey;
+  
+  border-radius: 0 5px;
+  overflow-x: auto;
+}
+
+.addToList > div.search-overlay > div {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  
+  margin: 0.25em 0;
+  padding: 1px;
+  border-bottom: 1px solid black; 
+}
+
+.addToList > div.search-overlay > div:hover {
+  background-color: rgba(140, 140, 140, 1);
+}
+
+.addToList > div.search-overlay > div > span {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  width: 64px;
+  min-width: 64px;
+  height: 88px;
+  
+  margin-right: 0.5em;
+}
+
+input[type="text"] {
+  width: 90%;
+  margin: 0 0px;
+}

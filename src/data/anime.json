@@ -1,0 +1,1152 @@
+{
+  "Watched_Anime": [
+    {
+      "title_name": "Re:Zero",
+      "total_episode": "Ep.25",
+      "total_movie": null,
+      "list_number": "1",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Sword Art Online",
+      "total_episode": "Ep.72",
+      "total_movie": ":1",
+      "list_number": "2",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "One Punch Man",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "3",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Tseruze Children",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "4",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "KonoSuba",
+      "total_episode": "Ep.20",
+      "total_movie": ":1",
+      "list_number": "5",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "No Game No Life",
+      "total_episode": "Ep.12",
+      "total_movie": ":1",
+      "list_number": "6",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Kill la Kill",
+      "total_episode": "Ep.26",
+      "total_movie": null,
+      "list_number": "7",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Charlotte",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "8",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Hacka Doll The Animation",
+      "total_episode": "Ep.4",
+      "total_movie": null,
+      "list_number": "9",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "In Another World With My Smartphone",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "10",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Death Note",
+      "total_episode": "Ep.37",
+      "total_movie": null,
+      "list_number": "11",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Haven't You Heard? I'm Sakamoto",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "12",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Seven Deadly Sins",
+      "total_episode": "Ep.48",
+      "total_movie": null,
+      "list_number": "13",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "My hero Academia",
+      "total_episode": "Ep.53",
+      "total_movie": null,
+      "list_number": "14",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Urara Meirochou",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "15",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Gabriel DropOut",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "16",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Fairy Tail",
+      "total_episode": "Ep.328",
+      "total_movie": null,
+      "list_number": "17",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Nyanko Days",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "18",
+      "combinedLength_in_normal_EP": [
+        "[Ep.1]"
+      ]
+    },
+    {
+      "title_name": "Nisekoi",
+      "total_episode": "Ep.32",
+      "total_movie": null,
+      "list_number": "19",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Eromanga Sensei",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "20",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Yamato kun and the witches",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "21",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Darling In The FranXX",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "22",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Musaigen No Phantom World",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "23",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Beatless",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "24",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "My GirlFriend Is a Faitful Virgin Bitch",
+      "total_episode": "Ep.10",
+      "total_movie": null,
+      "list_number": "25",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "My First Girlfriend Gal",
+      "total_episode": "Ep.10",
+      "total_movie": null,
+      "list_number": "26",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Saekano: How to Raise a Boring Girlfriend",
+      "total_episode": "Ep.23",
+      "total_movie": null,
+      "list_number": "27",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "KonoBi",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "28",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "OverLord",
+      "total_episode": "Ep.39",
+      "total_movie": null,
+      "list_number": "29",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Black Bullet",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "30",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Problem Children Are Coming from Another World  Aren't They?",
+      "total_episode": "Ep.10",
+      "total_movie": null,
+      "list_number": "31",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Tokyo Ravens",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "32",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Student Council's Discretion",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "33",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Log Horizen",
+      "total_episode": "Ep.50",
+      "total_movie": null,
+      "list_number": "34",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Angel Beats!",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "35",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Strike The Blood",
+      "total_episode": "Ep.34",
+      "total_movie": null,
+      "list_number": "36",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "To Love Ru",
+      "total_episode": "Ep.26",
+      "total_movie": null,
+      "list_number": "37",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Motto To Love Ru",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "38",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "To Love Ru Darkness",
+      "total_episode": "Ep.26",
+      "total_movie": null,
+      "list_number": "39",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Irregular at Magic High School",
+      "total_episode": "Ep.26",
+      "total_movie": null,
+      "list_number": "40",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Love  Chunibyo Other Delusions",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "41",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Ground Control to Psychoelectric Girl",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "42",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Saga of Tanya the Evil",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "43",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Inari Kon Kon",
+      "total_episode": "Ep.10",
+      "total_movie": null,
+      "list_number": "44",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Aho Girl",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "45",
+      "combinedLength_in_normal_EP": [
+        "[Ep.6]"
+      ]
+    },
+    {
+      "title_name": "Masamune-kun's Revenge",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "46",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Blend S",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "47",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Dragon Maid",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "48",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "New Game!",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "49",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Fate Serie",
+      "total_episode": "Ep.165",
+      "total_movie": ":4",
+      "list_number": "50",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Akashic Records of Bastard Magic Instructor  RokuAka",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "51",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Ryuo's Work is Never Done!",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "52",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Interviews with Monster Girls",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "53",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Death March to the Parallel World Rhapsody",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "54",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Engaged to the Unidentified",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "55",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Big Order",
+      "total_episode": "Ep.10",
+      "total_movie": null,
+      "list_number": "56",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Uma Musume Pretty Derby",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "57",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Recovery of an MMO Junkie",
+      "total_episode": "Ep.10",
+      "total_movie": null,
+      "list_number": "58",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Recently  My Sister is Unusual",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "59",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Re:Creators",
+      "total_episode": "Ep.22",
+      "total_movie": null,
+      "list_number": "60",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "61",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Testament of Sister New Devil",
+      "total_episode": "Ep.22",
+      "total_movie": null,
+      "list_number": "62",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Tawawa On Monday",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "63",
+      "combinedLength_in_normal_EP": [
+        "[Ep.2]"
+      ]
+    },
+    {
+      "title_name": "Monthly Girls' Nozaki-kun",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "64",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "How NOT to Summon a Demon Lord",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "65",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Steins;Gate",
+      "total_episode": "Ep.48",
+      "total_movie": null,
+      "list_number": "66",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "One Room",
+      "total_episode": "Ep.5",
+      "total_movie": null,
+      "list_number": "67",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Angel Of Death",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "68",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Seven Senses Of The Reunion",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "69",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Kiss Him  Not Me",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "70",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Disastrous Life of Saiki K",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "71",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Himouto! Umaru-chan",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "72",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Hyperdimension Neptunia",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "73",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "K-on",
+      "total_episode": "Ep.41",
+      "total_movie": null,
+      "list_number": "74",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "My Teen Romantic Comedy",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "75",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Fullmetal Alchemist",
+      "total_episode": "Ep.51",
+      "total_movie": null,
+      "list_number": "76",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Fullmetal Alchemist Brotherhood",
+      "total_episode": "Ep.64",
+      "total_movie": null,
+      "list_number": "77",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Cells At Work",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "78",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Everyday Life with Monster Girls",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "79",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Oreshura",
+      "total_episode": "Ep.13",
+      "total_movie": null,
+      "list_number": "80",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Please Take My Brother Away",
+      "total_episode": "Ep.6",
+      "total_movie": null,
+      "list_number": "81",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "total_episode": "Ep.13",
+      "total_movie": ":1",
+      "list_number": "82",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Grand Blue",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "83",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Prison School",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "84",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Daily Lives of High School Boys",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "85",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Happy Sugar Life",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "86",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Tokyo Ghoul",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "87",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Erased",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "88",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Little Witch Academia",
+      "total_episode": "Ep.25",
+      "total_movie": null,
+      "list_number": "89",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "ParaSyte",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "90",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Girl Who Leapt Through Time",
+      "total_episode": null,
+      "total_movie": ":1",
+      "list_number": "91",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Cyclops Shoujo Saipuu",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "92",
+      "combinedLength_in_normal_EP": [
+        "[Ep.1]"
+      ]
+    },
+    {
+      "title_name": "Your Lie In April",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "93",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Guilty Crown",
+      "total_episode": "Ep.22",
+      "total_movie": null,
+      "list_number": "94",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "That Time I Got Reincarnated as a Slime",
+      "total_episode": "Ep.25",
+      "total_movie": null,
+      "list_number": "95",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Promised Neverland",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "96",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Blue Exorcist",
+      "total_episode": "Ep.24",
+      "total_movie": null,
+      "list_number": "97",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Quintessential Quintuplets",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "98",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Silent Voice",
+      "total_episode": null,
+      "total_movie": ":1",
+      "list_number": "99",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Beyond The Boundry",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "100",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Rising Of The Shield Hero",
+      "total_episode": "Ep.25",
+      "total_movie": null,
+      "list_number": "101",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Violet Evergarden",
+      "total_episode": "Ep.14",
+      "total_movie": null,
+      "list_number": "102",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "And you thought there is never a girl online?",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "103",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Noragami",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "104",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Demon Slayer: Kimetsu no Yaiba",
+      "total_episode": "Ep.26",
+      "total_movie": null,
+      "list_number": "105",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Asobi Asobase",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "106",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Kimi no Na wa",
+      "total_episode": null,
+      "total_movie": ":1",
+      "list_number": "107",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Akkun to Kanojo",
+      "total_episode": "Ep.25",
+      "total_movie": null,
+      "list_number": "108",
+      "combinedLength_in_normal_EP": [
+        "[Ep.4]"
+      ]
+    },
+    {
+      "title_name": "Mirai Nikki",
+      "total_episode": "Ep.26",
+      "total_movie": null,
+      "list_number": "109",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Weathering with You",
+      "total_episode": null,
+      "total_movie": ":1",
+      "list_number": "110",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Jojo's Bizarre Adventure",
+      "total_episode": "Ep.152",
+      "total_movie": null,
+      "list_number": "111",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Hello World",
+      "total_episode": null,
+      "total_movie": ":1",
+      "list_number": "112",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "I Want to Eat Your Pancreas",
+      "total_episode": null,
+      "total_movie": ":1",
+      "list_number": "113",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Code Geass",
+      "total_episode": "Ep.50",
+      "total_movie": ":1",
+      "list_number": "114",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Ergo Proxy",
+      "total_episode": "Ep.23",
+      "total_movie": null,
+      "list_number": "115",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Citrus",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "116",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Tsuki ga Kirei",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "117",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Anohana",
+      "total_episode": "Ep.11",
+      "total_movie": ":1",
+      "list_number": "118",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Wolf Children",
+      "total_episode": null,
+      "total_movie": ":1",
+      "list_number": "119",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "WataMote: No Matter How I Look At It  It's You Guys' Fault I'm Unpopular!",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "120",
+      "combinedLength_in_normal_EP": null
+    }
+  ],
+  "Watching_now": [],
+  "Completed_Manga": [
+    {
+      "title_name": "Kiss Him  Not Me Ch.55",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "1",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Silent Voice Ch.61",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "2",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Parasyte Ch.64",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "3",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Tokyo Ghoul Ch.119",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "4",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Tokyo Ghoul RE Ch.179",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "5",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "The Promised Neverland Ch.181",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "6",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "I Want to Eat Your Pancreas Ch.10",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "7",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Citrus Ch.41",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "8",
+      "combinedLength_in_normal_EP": null
+    }
+  ],
+  "Current_Manga": [
+    {
+      "title_name": "Shield Hero Ch.59",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "1",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Kakegurui Ch.69",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "2",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Bunny Girl Senpai Ch.21",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "3",
+      "combinedLength_in_normal_EP": null
+    }
+  ],
+  "Planned_to_Finish": [
+    {
+      "title_name": "My Teen Romantic Comedy S2 S3",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "1",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Sword Art Online S4",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "2",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Toradora",
+      "total_episode": "Ep.5",
+      "total_movie": null,
+      "list_number": "3",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Neon Genesis Evangelion",
+      "total_episode": "Ep.8",
+      "total_movie": null,
+      "list_number": "4",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Mysteria Friends",
+      "total_episode": "Ep.5",
+      "total_movie": null,
+      "list_number": "5",
+      "combinedLength_in_normal_EP": [
+        "[Ep.10]"
+      ]
+    },
+    {
+      "title_name": "High School DxD",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "6",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Dorohedoro",
+      "total_episode": "Ep.2",
+      "total_movie": null,
+      "list_number": "7",
+      "combinedLength_in_normal_EP": null
+    }
+  ],
+  "Planned_to_watch": [
+    {
+      "title_name": "Elfen Lied",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "1",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Death Parade",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "2",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Working",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "3",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Trinity Sevens",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "4",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Slow Start",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "5",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Ladies versus Butlers!",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "6",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Aoharu x Machinegun",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "7",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Is the Order a Rabbit?",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "8",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Yuru Camp",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "9",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Nyaruko: Crawling With Love!",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "10",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Danchigai",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "11",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Renai Boukun",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "12",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Hanamaru Youchien",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "13",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Dies Irae",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "14",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Place to Place",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "15",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "It's Difficult to Love an Otaku",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "16",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "17",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Another",
+      "total_episode": "Ep.12",
+      "total_movie": null,
+      "list_number": "18",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Yuri!!! on Ice",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "19",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Princess Jellyfish",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "20",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Food Wars",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "21",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Hyuiku",
+      "total_episode": null,
+      "total_movie": null,
+      "list_number": "22",
+      "combinedLength_in_normal_EP": null
+    },
+    {
+      "title_name": "Black Butler",
+      "total_episode": "Ep.25",
+      "total_movie": ":1",
+      "list_number": "23",
+      "combinedLength_in_normal_EP": null
+    }
+  ]
+}
