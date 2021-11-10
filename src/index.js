@@ -15,7 +15,7 @@ function requireJSON(arg, defaultValue={}) {
       throw new Error(`JSON file has empty object: ${ JSON.stringify(data) }`);
     }
     return window.require(arg);
-  } 
+  }
   catch (e) { console.warn("Custom ERROR:", e); return defaultValue; }
 }
 

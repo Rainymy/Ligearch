@@ -18,10 +18,6 @@ let mainWindow;
 const appName = app.name;
 const saveFolderPath = process.env.LOCALAPPDATA;
 
-ipcMain.on("getSaveFolder", (event, arg) => {
-  event.returnValue = path.join(saveFolderPath, appName);
-});
-
 ipcMain.on("filePath", async (event, arg, defaultValue={}) => {
   try {
     const absolutePath = path.join(saveFolderPath, appName, arg);
@@ -47,7 +43,6 @@ function createWindow() {
       nodeIntegration: true,
       webSecurity: true,
       preload: __dirname + '/preload.js',
-      // preload: "MAIN_WINDOW_PRELOAD_WEBPACK_ENTRY",
       allowRunningInsecureContent: false
     }
   });

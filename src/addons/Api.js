@@ -5,8 +5,8 @@ export function netflix(content) {
 
 export async function imdb(content) {
   let uri = encodeURIComponent(content);
-  let url = `https://www.imdb.com/find?q=${uri}&s=tt`;
-  // let url = `https://www.imdb.com/find?q=${uri}`;
+  // let url = `https://www.imdb.com/find?q=${uri}&s=tt`;
+  let url = `https://www.imdb.com/find?q=${uri}`;
   
   return await new Promise(function(resolve, reject) {
     fetch(url, {
@@ -17,7 +17,7 @@ export async function imdb(content) {
       },
       credentials: 'same-origin',
     })
-      .then(async response => await response.text())
+      .then(async response => { return await response.text(); })
       .then(data => resolve(data))
       .catch(e => reject(e));
   });
@@ -47,13 +47,13 @@ export default async function Api(api, content) {
     html.innerHTML = htmlString;
     let elements = Array.from(html.querySelectorAll("div.findSection"));
     
-    // elements = elements.reduce((acc, current) => {
-    //   if (current.children[0].textContent.toLowerCase() !== "titles") {
-    //     return acc;
-    //   }
-    //   acc.push(current);
-    //   return acc;
-    // }, []);
+    elements = elements.reduce((acc, current) => {
+      if (current.children[0].textContent.toLowerCase() !== "titles") {
+        return acc;
+      }
+      acc.push(current);
+      return acc;
+    }, []);
     
     let list = Array.from(
       elements[0]?.querySelectorAll("table.findList > tbody > tr") ?? []
@@ -80,6 +80,7 @@ export default async function Api(api, content) {
       parsed.push({ title, img: [img], releaseDate, link });
     }
     
+    console.log(parsed);
     return parsed;
   }
   
